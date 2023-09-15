@@ -31,10 +31,9 @@ Para executar o código deste repositório, você precisará das seguintes bibli
 
 Você pode instalar essas bibliotecas usando o pip:
 
-    ```bash
+```bash
     pip install numpy pandas matplotlib seaborn
-
-
+```
 ## Limpeza de Dados
 
 O código realiza a limpeza e pré-processamento dos dados, incluindo:
